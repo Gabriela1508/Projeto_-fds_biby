@@ -1,0 +1,78 @@
+*{
+    margin: 10px;
+}
+.cabecalho-geral
+{
+    background-color:antiquewhite;
+}
+.titulo-cabecalho
+{
+    color: navy;
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+    justify-content:space-around;
+}
+.lista-secao
+{
+    padding: 10px;
+    font-size: 20px;
+}
+.tit-1-secao
+{
+    color:navy;
+    font-size: 40px;
+    font-family: fantasy;
+}
+.tit-2-secao
+{
+color: black;
+font-size: 40px;
+font-family: 'Lucida Sans', ' Lucida Sans Regular', 'Lucida Grande', 'lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p-tit-1
+{
+    font-size: 20px;
+    color: black;
+}
+.p-tit-2
+{
+    font-size: 20px;
+    color: rgb(0, 0, 83);
+    font-family: 'Trebuchet MS','Lucida Sans Unicode','Lucida Grande','Lucida Sans',Arial, sans-serif;    
+}
+.item-1
+{
+    color:black;
+}
+.item-2
+{
+    color: black;
+}
+.item-3
+{
+    color: black;
+}
+.item-4
+{
+    color: black;
+}
+.lista-secao
+{
+background-color: yellow;
+}
+.rodape
+{
+    background-color:black;
+padding: 10px;
+color:antiquewhite;
+}
+.secao{
+    background-color:cornflowerblue;
+}
+.image {
+width: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
